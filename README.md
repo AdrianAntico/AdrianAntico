@@ -39,6 +39,7 @@ You can use the website to generate badges: https://shields.io/
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Education: I have a BS degree in Actuarial Science with Minors in Finance, Economics, and Philosophy;
 - 📫 How to reach me: adrianantico@gmail.com;
+- ⚡ Fun fact: My brother took the photo to the right michaelantico@yahoo.com;
 
 **Languages and Tools:** 
 
