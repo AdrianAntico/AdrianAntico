@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <!-- Your title -->
-## Hi, I'm Adrian Antico, Senior Manager of Data Science at Zovio 🚀 currently living in Phoenix, AZ.
+## Hi, I'm Adrian Antico, Senior Manager of Data Science 🚀 currently living in Phoenix, AZ.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
