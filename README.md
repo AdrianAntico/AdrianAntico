@@ -37,7 +37,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working on [RemixAutoML](https://github.com/AdrianAntico/RemixAutoML);
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in Actuarial Science with Minors in Finance, Economics, and Philosophy;
+- ⚡️ Education: I have a BS degree in Actuarial Science with Minors in Finance, Economics, and Philosophy;
 - 📫 How to reach me: adrianantico@gmail.com;
 
 **Languages and Tools:** 
