@@ -39,7 +39,7 @@ You can use the website to generate badges: https://shields.io/
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: adrianantico@gmail.com
 - ⚡ Fun fact: My brother took the photo to the right michaelantico@yahoo.com
-- 🌱 I have a BS degree in Actuarial Science with Minors in Finance, Economics, and Philosophy. I even passed the SOA exams P, FM, and MFE.
+- 🌱 I have a BS in Actuarial Science with Minors in Finance, Economics, and Philosophy. I even passed the SOA exams P, FM, and MFE.
 
 **Languages and Tools:** 
 
