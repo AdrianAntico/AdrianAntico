@@ -66,8 +66,8 @@ Both apis are in trouble due to the number of requests, if you know any other to
 ---
 
 <!-- Its main projects -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/AdrianAntico/RemixAutoML">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianAntico&repo=RemixAutoML" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianAntico&repo=RemixAutoML" />
   </a>
 </p>
