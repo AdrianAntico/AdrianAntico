@@ -30,7 +30,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Talking about you -->
-**Background:**
+**Notes:**
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://github.com/AdrianAntico/RemixAutoML/blob/master/Images/0V8A6189.jpg" />
