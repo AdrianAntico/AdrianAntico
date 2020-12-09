@@ -33,7 +33,7 @@ You can use the website to generate badges: https://shields.io/
 **Notes:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://github.com/AdrianAntico/RemixAutoML/blob/master/Images/0V8A6189.jpg" />
+<img width="50%" align="right" alt="Github" src="https://github.com/AdrianAntico/RemixAutoML/blob/master/Images/0V8A6189.jpg" />
 
 - 👨🏽‍💻 I’m currently working on [RemixAutoML](https://github.com/AdrianAntico/RemixAutoML)
 - 💬 Ask me about anything, I am happy to help
