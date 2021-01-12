@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <!-- Your title -->
-### Hi, I'm Adrian Antico, Data Science and Machine Learning professional, 🚀 currently living in Phoenix, AZ.
+### Hi, I'm Adrian Antico, Data Science and Machine Learning professional 🚀
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
