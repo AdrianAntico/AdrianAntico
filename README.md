@@ -33,27 +33,13 @@ You can use the website to generate badges: https://shields.io/
 **Notes:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="50%" align="right" alt="Github" src="https://github.com/AdrianAntico/RemixAutoML/blob/master/Images/0V8A6189.jpg" />
+<img width="45%" align="right" alt="Github" src="https://github.com/AdrianAntico/RemixAutoML/blob/master/Images/0V8A6189.jpg" />
 
 - 👨🏽‍💻 I’m currently working on [RemixAutoML](https://github.com/AdrianAntico/RemixAutoML)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: adrianantico@gmail.com
 - ⚡ Fun fact: My brother took the photo to the right michaelantico@yahoo.com
 - 🌱 I have a BS in Actuarial Science with Minors in Finance, Economics, and Philosophy. I even passed the SOA exams P, FM, and MFE.
-
-**Languages and Tools:** 
-
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p align="left">
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
-  <!-- https://github.com/wesky93/views this is a clone of the hits -->
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
-</p>
-
----
 
 <!-- Its main projects -->
 <p align="left">
