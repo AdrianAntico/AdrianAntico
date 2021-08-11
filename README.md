@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <!-- Your title -->
-### Hi, I'm Adrian Antico, Data Science and Machine Learning professional 🚀
+### Hi, I'm Adrian Antico - Data Science and Machine Learning professional 🚀
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianAntico)](https://github.com/anuraghazra/github-readme-stats)
 
