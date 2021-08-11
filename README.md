@@ -47,5 +47,6 @@ You can use the website to generate badges: https://shields.io/
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianAntico&repo=RemixAutoML" />
   </a>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianAntico)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianAntico)](https://github.com/anuraghazra/github-readme-stats)
+</p>
