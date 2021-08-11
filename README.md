@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <!-- Your title -->
 ### Hi, I'm Adrian Antico, Data Science and Machine Learning professional 🚀
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianAntico)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -46,7 +48,4 @@ You can use the website to generate badges: https://shields.io/
   <a href="https://github.com/AdrianAntico/RemixAutoML">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianAntico&repo=RemixAutoML" />
   </a>
-</p>
-<p align="left">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianAntico)](https://github.com/anuraghazra/github-readme-stats)
 </p>
