@@ -37,7 +37,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="45%" align="right" alt="Github" src="https://github.com/AdrianAntico/RemixAutoML/blob/master/Images/0V8A6189.jpg" />
 
-- 👨🏽‍💻 I’m currently working on [RemixAutoML](https://github.com/AdrianAntico/RemixAutoML) and a Python equivalent
+- 👨🏽‍💻 I’m currently working on [RemixAutoML](https://github.com/AdrianAntico/RemixAutoML) and [RetroFit](https://github.com/AdrianAntico/RetroFit)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: adrianantico@gmail.com
 
