@@ -1,4 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianAntico&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AdrianAntico)
+
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
