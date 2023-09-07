@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AdrianAntico)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianAntico&show_icons=true&theme=transparent)
 
 
 <!-- Your badges
